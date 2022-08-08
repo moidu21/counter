@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
-	"RemoteVersionRange" : "1.0.1",
+	"VersionName": "1.0.9",
+	"SemVersion": "1.0.9",
+	"RemoteVersionRange" : "1.0.9",
 	"FriendlyName": "another counter",
 	"Description": "",
 	"Category": "Modding",
